@@ -1,0 +1,19 @@
+.el-table__body-wrapper::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+.el-table__body-wrapper::-webkit-scrollbar-thumb {
+  background-color: #30B08F;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #30B08F;
+  border-radius: 5px;
+}
